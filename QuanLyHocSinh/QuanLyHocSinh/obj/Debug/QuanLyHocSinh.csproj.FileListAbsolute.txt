@@ -1,0 +1,10 @@
+D:\DiepNH\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\ResolveAssemblyReference.cache
+D:\DiepNH\QuanLyHocSinh\QuanLyHocSinh\bin\Debug\QuanLyHocSinh.exe
+D:\DiepNH\QuanLyHocSinh\QuanLyHocSinh\bin\Debug\QuanLyHocSinh.pdb
+D:\DiepNH\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.exe
+D:\DiepNH\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.pdb
+D:\Giang day\Do an 1\TaiLieu Seminar KTTC du lieu\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.exe
+D:\Giang day\Do an 1\TaiLieu Seminar KTTC du lieu\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.pdb
+D:\Giang day\Do an 1\TaiLieu Seminar KTTC du lieu\QuanLyHocSinh\QuanLyHocSinh\bin\Debug\QuanLyHocSinh.exe
+D:\Giang day\Do an 1\TaiLieu Seminar KTTC du lieu\QuanLyHocSinh\QuanLyHocSinh\bin\Debug\QuanLyHocSinh.pdb
+D:\Giang day\Do an 1\TaiLieu Seminar KTTC du lieu\QuanLyHocSinh\QuanLyHocSinh\obj\Debug\QuanLyHocSinh.csprojResolveAssemblyReference.cache

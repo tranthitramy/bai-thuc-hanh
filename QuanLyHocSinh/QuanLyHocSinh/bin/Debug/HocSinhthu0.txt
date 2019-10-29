@@ -1,0 +1,17 @@
+1215001#Nguyen Thi Lan#Nu#01-01-1997 12:00:00 AM#Lan12a@gmail.com#8.3#121501
+1215002#Nguyen Lan#Nu#01-08-1997 12:00:00 AM#LanL12a@gmail.com#5.3#121501
+1215003#Nguyen Thu#Nam#01-10-1997 12:00:00 AM#thun12a@gmail.com#7.6#121501
+1215004#Tran an#Nam#11-18-1997 12:00:00 AM#an12a@gmail.com#6.9#121501
+1215005#Do Thi Thu#Nu#2-18-1997 12:00:00 AM#thu@gmail.com#6.8#121501
+1215006#Vi Hoai Nam#Nam#1-23-1997 12:00:00 AM#nam@gmail.com#8.7#121501
+1215007#Nguyen Gia#Nam#12-12-1997 12:00:00 AM#gia@gmail.com#8.0#121502
+1215008#Dao Thu Diep#Nu#10-10-1996 12:00:00 AM#Diep12b@gmail.com#7.6#121502
+1316001#Tran an#Nam#9-11-1998 12:00:00 AM#tranan@gmail.com#6.9#131601
+1316002#Dao Thi Thu#Nu#2-08-1998 12:00:00 AM#daothu@gmail.com#6.8#131601
+1316003#Vi Hoai#Nam#8-11-1998 12:00:00 AM#hoaivi@gmail.com#8.7#131602
+1316004#Nguyen Gia#Nam#7-12-1998 12:00:00 AM#giaa@gmail.com#8.0#131602
+1316005#Dao Thu#Nu#10-10-1998 12:00:00 AM#thu@gmail.com#7.6#131602
+1417001#tran Nam#Nu#01-08-1999 12:00:00 AM#nam10a@gmail.com#7.0#141701
+1215009#tran hoang nam#nam#01-01-0001 12:00:00 AM#hoangnam@gmail.com#7.5#121504
+121401#gf#h#01-01-0001 12:00:00 AM#fg#5.6#121501
+1215199#tregrt#r#1/1/0001 12:00:00 AM#hng#7#121502

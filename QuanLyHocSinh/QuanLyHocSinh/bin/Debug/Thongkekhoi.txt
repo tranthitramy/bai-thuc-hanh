@@ -1,0 +1,16 @@
+Thoi diem thong ke: 1/1/1
+So lop khoi 10   : 2 
+So lop khoi 11   : 3 
+So lop khoi 12   : 6 
+Thoi diem thong ke: 30:08:2014
+So lop khoi 10   : 2 
+So lop khoi 11   : 3 
+So lop khoi 12   : 6 
+Thoi diem thong ke: 31/08/2014
+So lop khoi 10   : 2 
+So lop khoi 11   : 3 
+So lop khoi 12   : 6 
+Thoi diem thong ke: 03/09/2014
+So lop khoi 10   : 2 
+So lop khoi 11   : 3 
+So lop khoi 12   : 6 

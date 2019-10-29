@@ -1,0 +1,20 @@
+Thoi diem thong ke: 30/08/2014
+Ty le Gioi (8..10)   : 4 / 16 
+Ty le Kha (7..8)     : 6 / 16 
+Ty le TrungBinh(5..7): 6 / 16 
+Ty le Yeu (<5)       : 0 / 16 
+Thoi diem thong ke: 31/08/2014
+Ty le Gioi (8..10)   : 4 / 17 
+Ty le Kha (7..8)     : 6 / 17 
+Ty le TrungBinh(5..7): 6 / 17 
+Ty le Yeu (<5)       : 0 / 17 
+Thoi diem thong ke:03/09/2014
+Ty le Gioi (8..10)   : 4 / 14 
+Ty le Kha (7..8)     : 4 / 14 
+Ty le TrungBinh(5..7): 5 / 14 
+Ty le Yeu (<5)       : 0 / 14 
+Thoi diem thong ke:03/09/2014
+Ty le Gioi (8..10)   : 4 / 14 
+Ty le Kha (7..8)     : 4 / 14 
+Ty le TrungBinh(5..7): 5 / 14 
+Ty le Yeu (<5)       : 0 / 14 

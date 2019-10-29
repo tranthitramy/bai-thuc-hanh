@@ -1,0 +1,14 @@
+1215001#Nguyen Thi Lan#Nu#1/1/1997#Lan12a@gmail.com#8.3#121501
+1215002#Nguyen Lan#Nu#1/8/1997#LanL12a@gmail.com#5.3#121501
+1215003#Nguyen Thu#Nam#1/10/1997#thun12a@gmail.com#7.6#121501
+1215004#Tran an#Nam#1/11/1997#an12a@gmail.com#6.9#121501
+1215005#Do Thi Thu#Nu#21/1/1997#thu@gmail.com#6.8#121501
+1215006#Vi Hoai Nam#Nam#18/1/1997#nam@gmail.com#8.7#121501
+1215007#Nguyen Gia#Nam#17/12/1997#gia@gmail.com#8.0#121502
+1215008#Dao Thu Diep#Nu#10/10/1996#Diep12b@gmail.com#7.6#121502
+1316001#Tran an#Nam#1/11/1998#tranan@gmail.com#6.9#131601
+1316002#Dao Thi Thu#Nu#21/1/1998#daothu@gmail.com#6.8#131601
+1316003#Vi Hoai#Nam#18/1/1998#hoaivi@gmail.com#8.7#131602
+1316004#Nguyen Gia#Nam#17/12/1998#giaa@gmail.com#8.0#131602
+1316005#Dao Thu#Nu#10/10/1998#thu@gmail.com#7.6#131602
+1417001#tran Nam#Nu#1/8/1999#nam10a@gmail.com#7.0#141701

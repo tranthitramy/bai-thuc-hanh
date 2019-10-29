@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="QuanLyHocSinh">
+</Property><Property Name="Solution File" Value="D:\DiepNH\QuanLyHocSinh\QuanLyHocSinh.sln">
+</Property><Property Name="User Options File" Value="D:\DiepNH\QuanLyHocSinh\QuanLyHocSinh.suo">
+</Property><Property Name="Date" Value="Tuesday, September 02, 2014">
+</Property><Property Name="Time" Value="0:14 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="QuanLyHocSinh.sln" Description="File successfully backed up as D:\DiepNH\QuanLyHocSinh\Backup\QuanLyHocSinh.sln">
+</Event><Event ErrorLevel="0" Project="" Source="QuanLyHocSinh.suo" Description="File successfully backed up as D:\DiepNH\QuanLyHocSinh\Backup\QuanLyHocSinh.suo">
+</Event><Event ErrorLevel="0" Project="QuanLyHocSinh" Source="QuanLyHocSinh\QuanLyHocSinh.csproj" Description="Project file successfully backed up as D:\DiepNH\QuanLyHocSinh\Backup\QuanLyHocSinh\QuanLyHocSinh.csproj">
+</Event><Event ErrorLevel="0" Project="QuanLyHocSinh" Source="QuanLyHocSinh\Hocsinh\HocSinh.cs" Description="File successfully backed up as D:\DiepNH\QuanLyHocSinh\Backup\QuanLyHocSinh\Hocsinh\HocSinh.cs">
+</Event><Event ErrorLevel="0" Project="QuanLyHocSinh" Source="QuanLyHocSinh\Lop\Lop.cs" Description="File successfully backed up as D:\DiepNH\QuanLyHocSinh\Backup\QuanLyHocSinh\Lop\Lop.cs">
+</Event><Event ErrorLevel="0" Project="QuanLyHocSinh" Source="QuanLyHocSinh\Program.cs" Description="File successfully backed up as D:\DiepNH\QuanLyHocSinh\Backup\QuanLyHocSinh\Program.cs">
+</Event><Event ErrorLevel="0" Project="QuanLyHocSinh" Source="QuanLyHocSinh\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\DiepNH\QuanLyHocSinh\Backup\QuanLyHocSinh\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="QuanLyHocSinh" Source="QuanLyHocSinh\QuanLyHocSinh.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="QuanLyHocSinh" Source="QuanLyHocSinh\QuanLyHocSinh.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="QuanLyHocSinh.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="QuanLyHocSinh.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="QuanLyHocSinh" Source="QuanLyHocSinh\QuanLyHocSinh.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
